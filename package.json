@@ -1,6 +1,6 @@
 {
   "name": "react-native-color-wheel",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A react native reusable and color picker wheel",
   "main": "./ColorWheel.js",
   "license": "MIT",
@@ -8,6 +8,7 @@
     "type": "https",
     "url": "https://github.com/netbeast/react-native-color-wheel"
   },
+  "typings": "index.d.ts",
   "keywords": [
     "color",
     "picker",
