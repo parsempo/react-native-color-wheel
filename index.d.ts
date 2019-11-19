@@ -11,5 +11,5 @@ declare module 'react-native-color-wheel' {
         style?: StyleProp<ViewStyle>;
     }
 
-    export default class ColorWheel extends PureComponent<ColorWheelProps> {}
+    export class ColorWheel extends PureComponent<ColorWheelProps> {}
 }
